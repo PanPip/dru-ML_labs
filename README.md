@@ -17,10 +17,10 @@ Themes for labs:
 - KMeans (Week 4)
 - PCA (Week 4)
 
-![sample](images/img01.PNG)
+![sample](images/img01.png)
 
-![sample](images/img02.PNG)
+![sample](images/img02.png)
 
-![sample](images/img03.PNG)
+![sample](images/img03.png)
 
 Year - 2018.
